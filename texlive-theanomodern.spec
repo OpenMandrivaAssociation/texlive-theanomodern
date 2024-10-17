@@ -3,7 +3,7 @@ Version:	64520
 Release:	2
 Summary:	Theano Modern fonts with LaTeX support
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/theanomodern
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/theanomodern
 License:	ofl lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/theanomodern.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/theanomodern.doc.r%{version}.tar.xz
